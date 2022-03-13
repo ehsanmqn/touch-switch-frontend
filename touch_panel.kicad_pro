@@ -363,7 +363,7 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "touch_panel.cad",
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
